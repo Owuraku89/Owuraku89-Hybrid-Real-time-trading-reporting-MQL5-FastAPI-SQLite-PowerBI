@@ -1,0 +1,2 @@
+# Owuraku89-Hybrid-Real-time-trading-reporting-MQL5-FastAPI-SQLite-PowerBI
+Developed a full-stack, low-latency data pipeline to capture execution data from a MetaTrader 5 Expert Advisor (MQL5) and present real-time performance analytics in a customizable Power BI dashboard. The solution enforces data integrity by using an API (FastAPI) to validate, clean, and store trade data in a centralized database.
